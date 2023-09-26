@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "be5861aa63e32ee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5c333b155ec5e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4305615333e07bab",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Vault 1/Canvas 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd0237c7b9d78b3c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc9188d89e82352d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d2a481cab2cfc510",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb377a7df20eba0b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "7c0d387a2b2469f1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ac7525d6c99069ac",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6515399d8a9d62f2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Vault 1/Canvas 1.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "86fab9c10ba8740b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Vault 1/Canvas 1.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ea61b265b4b42d08",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Vault 1/Canvas 1.canvas"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4305615333e07bab",
+  "lastOpenFiles": [
+    "Vault 1/Note 1.md",
+    "Vault 1/Canvas 1.canvas",
+    "Vault 1/2023-09-26.md",
+    "Vault 1/Folder 2/Folder inside folder/Note inside two parent folders.md",
+    "Vault 1/Folder 1/Note inside Folder 1.md"
+  ]
+}
